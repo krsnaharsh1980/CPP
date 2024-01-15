@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-using namespace std;
+ using namespace std;
 
 void function1(int count,int n){
     if(count==0) return;
